@@ -26,19 +26,19 @@ nav ul {
   background-color: #b58900;
 }
 
-.dfn strong: second-child {
+.dfn strong:second-child {
   color: #fff;
 }
 
-ul li a: first child {
+ul li a:first child {
   background-color: #719e07;
 }
 
-nav ul li a : last child {
+nav ul li a :last child {
   background-color: #719e07;
 }
 
-nav ul li a : nth child (2) {
+nav ul li a :nth child (2) {
   background-color: #719e07;
 }
 
@@ -50,7 +50,7 @@ ol li :first child {
   color: #719e47;
 }
 
-ol li: last child {
+ol li:last child {
    color: #2aa198;
 }
 
