@@ -18,7 +18,19 @@ nav ul {
   background-color: #eee8d5;
 }
 
-#contents #favs #facts #types {
+#contents {
+  color: #93a1a1;
+}
+
+#favs {
+  color: #93a1a1;
+}
+
+#facts {
+  color: #93a1a1;
+}
+
+ #types {
   color: #93a1a1;
 }
 
@@ -26,11 +38,11 @@ nav ul {
   background-color: #b58900;
 }
 
-.dfn strong:second-child {
+.dfn + strong {
   color: #fff;
 }
 
-ul li a:first child {
+ul li a :first child {
   background-color: #719e07;
 }
 
@@ -50,7 +62,7 @@ ol li :first child {
   color: #719e47;
 }
 
-ol li:last child {
+ol li :last child {
    color: #2aa198;
 }
 
