@@ -33,3 +33,11 @@ nav ul {
 ul li a : first child {
   background-color: #719e07;
 }
+
+nav ul li a : last child {
+  background-color: #719e07;
+}
+
+nav ul li a : nth child (2) {
+  background-color: #719e07;
+}
