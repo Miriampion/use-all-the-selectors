@@ -29,3 +29,7 @@ nav ul {
 .dfn strong: second-child {
   color: #fff;
 }
+
+ul li a : first child {
+  background-color: #719e07;
+}
