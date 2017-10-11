@@ -30,7 +30,9 @@ p + strong {
   color: #fff;
 }
 
-a :not (.no-highlight)
+a :not (.no-highlight){
+  background-color: #719e07;
+}
 
 ul li a :first child {
   background-color: #719e07;
