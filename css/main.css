@@ -18,7 +18,7 @@ nav ul {
   background-color: #eee8d5;
 }
 
-#contents, #types, #favs, #facts    {
+#contents, #types, #favs, #facts {
   color: #93a1a1;
 }
 
@@ -30,23 +30,23 @@ p + strong {
   color: #fff;
 }
 
-a :not (.no-highlight){
+a :not (.no-highlight) {
   background-color: #719e07;
 }
 
-[rel="external"]{
+[rel="external"] {
 background-color: #2694d8;
 }
 
-ol li: fist child{
+ol li: first child {
   color: #719e47;
 }
 
-ol li :last child{
+ol li :last child {
   color: #2aa198;
 }
 
-.types li :nth-child(odd){
+.types li :nth-child(odd) {
   background-color: #657ba3;
 }
 
