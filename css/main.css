@@ -26,9 +26,11 @@ nav ul {
   background-color: #b58900;
 }
 
-.dfn + strong {
+p + strong {
   color: #fff;
 }
+
+a :not (.no-highlight)
 
 ul li a :first child {
   background-color: #719e07;
