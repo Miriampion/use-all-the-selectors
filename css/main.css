@@ -47,12 +47,6 @@ ol li :last child{
 }
 
 .types li :nth-child(odd){
-
-}
-
-
-
-.types li :nth-child (odd) {
   background-color: #657ba3;
 }
 
